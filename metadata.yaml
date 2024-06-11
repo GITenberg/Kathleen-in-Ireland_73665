@@ -1,0 +1,40 @@
+_repo: Kathleen-in-Ireland_73665
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: McDonald, Etta Blaisdell
+    aliases:
+    - McDonald, Etta Austin Blaisdell
+    - Blaisdell, Etta Austin
+    - Murray, Clara
+    birthdate: 1872
+    deathdate: 1963
+    gutenberg_agent_id: '6443'
+    url: http://www.gutenberg.org/2009/agents/6443
+  - agent_name: Dalrymple, Julia
+    gutenberg_agent_id: '33522'
+    url: http://www.gutenberg.org/2009/agents/33522
+description: ''
+gutenberg_issued: '2024-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73665'
+language: en
+pgterms:marc904: https://archive.org/details/kathleeninirelan0000etta/
+pgterms:marc905: 20240114003304mcdonald
+pgterms:marc906: '1923'
+pgterms:marc907: us
+production_note: Fiona Holmes, Andrew Sly and the Online Distributed Proofreading
+  Team at http://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive.)
+publication_note: '  $aBoston :$bLittle, Brown & Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Little people everywhere
+subjects:
+- !lcsh 'Children -- Ireland -- Juvenile literature'
+- !lcc 'PZ'
+- GITenberg
+title: Kathleen in Ireland
+url: http://www.gutenberg.org/ebooks/73665
